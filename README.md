@@ -1,5 +1,6 @@
 # ETL functions with Python
 The project here to be done is called scripting. Scripting in Python refers to writing small programs, often called scripts, that automate tasks, manipulate data, or perform routine operations. In this project I will demonstrate the scripting process using data Python Language. The process will involve extracting or loading data from a (csv, tex, xlsx e.tc file) whichever file you have data then load it into the python adn then use Pandas library to do some trasformation and manipulation, once done then we can we define some funtion and create a script to automate every step of the process and save the new a cleaned file.
+![maxresdefault](https://github.com/Ackson507/ETL_Automation-with-Python/assets/84422970/f3907641-a901-4c82-b5e2-7819f92f860a)
 
 
 ### Tool and Libraries
